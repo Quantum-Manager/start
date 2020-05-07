@@ -14,6 +14,12 @@ Download release or beta versions.
 Report a bug, suggest an idea or question.
 [View tracker](https://github.com/Quantum-Manager/tracker)
 
+## Links
+- [Official site](https://www.norrnext.com/quantum-manager)
+- [Official site on Russian](https://hika.su/rasshireniya/quantum-manager)
+- [Documentation](https://www.norrnext.com/docs/joomla-extensions/quantum-manager)
+
+
 ## Localizations
 For Russian and English languages, localization is not required to be downloaded.
 
