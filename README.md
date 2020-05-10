@@ -1,5 +1,6 @@
 # Quantum Manager
 
+
 ## Description
 Do you want to optimize your time on preparing the content? This file manager gives you an ability to upload and insert images without any pain: you can resize and crop images, rename them and upload files over existing ones without a problem. All that you needed to make your work with files more effective have already designed in Quantum Manager.
 
