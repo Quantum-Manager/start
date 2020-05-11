@@ -1,18 +1,17 @@
 # Quantum Manager
 
-
 ## Description
-Do you want to optimize your time on preparing the content? This file manager gives you an ability to upload and insert images without any pain: you can resize and crop images, rename them and upload files over existing ones without a problem. All that you needed to make your work with files more effective have already designed in Quantum Manager.
+Do you want to optimize your time on preparing the content in Joomla? This file manager gives you an ability to upload and embed files without any pain. You can resize and crop images, rename and move files, upload files over existing ones without a problem. You can build you own embedding templates for files and insert multiple files at once. All that you needed to make your work with files and media in Joomla more effective have already designed in Quantum Manager.
 
 ## Changelog
-- [look in Russian](https://github.com/Quantum-Manager/start/blob/master/ru.changelog.md)
+- [See in Russian](https://github.com/Quantum-Manager/start/blob/master/ru.changelog.md)
 
 ## Release
 Download release or beta versions.
 [View all release](https://github.com/Quantum-Manager/start/releases)
 
 ## Tracker & Support
-Report a bug, suggest an idea or question.
+Report a bug, suggest an idea or ask a question.
 [View tracker](https://github.com/Quantum-Manager/tracker)
 
 ## Links
@@ -20,20 +19,19 @@ Report a bug, suggest an idea or question.
 - [Official site on Russian](https://hika.su/rasshireniya/quantum-manager)
 - [Documentation](https://www.norrnext.com/docs/joomla-extensions/quantum-manager)
 
-
 ## Localizations
-For Russian and English languages, localization is not required to be downloaded.
+Russian and English localization is shipped in the package.
 
 Download: https://www.norrnext.com/quantum-manager-localizations
 
 Support languages:
 - Bulgarian (Bulgaria)	
-- Czech (Czech republic)	
-- English (United kingdom)	
+- Czech (Czech Republic)	
+- English (United Kingdom)	
 - French (France)
 - German (Germany)
 - Italian (Italy)
-- Russian (Russian federation)	
+- Russian (Russian Federation)	
 - Slovak (Slovakia)	
 - Spanish (Spain)	
 - Turkish (Turkey)	
@@ -43,5 +41,5 @@ Support languages:
 ## License
 GPLv3
 
-## Creators
+## Authors
 [NorrNext](https://www.norrnext.com) & [Delo-Design](https://delo-design.ru)
