@@ -6,9 +6,9 @@ Do you want to optimize your time on preparing the content in Joomla? This file 
 ## Changelog
 - [See in Russian](https://github.com/Quantum-Manager/start/blob/master/ru.changelog.md)
 
-## Release
-Download release or beta versions.
-[View all release](https://github.com/Quantum-Manager/start/releases)
+## Releases
+Download stable releases and versions for testing.
+[View all releases](https://github.com/Quantum-Manager/start/releases)
 
 ## Tracker & Support
 Report a bug, suggest an idea or ask a question.
