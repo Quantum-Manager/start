@@ -4,7 +4,7 @@
 Do you want to optimize your time on preparing the content in Joomla? This file manager gives you an ability to upload and embed files without any pain. You can resize and crop images, rename and move files, upload files over existing ones without a problem. You can build you own embedding templates for files and insert multiple files at once. All that you needed to make your work with files and media in Joomla more effective have already designed in Quantum Manager.
 
 ## Changelog
-- [See in English]([https://github.com/Quantum-Manager/start/blob/master/ru.changelog.md](https://norrnext.com/support/changelogs/quantum-manager))
+- [See in English](https://norrnext.com/support/changelogs/quantum-manager)
 - [See in Russian](https://github.com/Quantum-Manager/start/blob/master/ru.changelog.md)
 
 ## Releases
