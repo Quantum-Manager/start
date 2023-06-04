@@ -23,8 +23,6 @@ Report a bug, suggest your idea or ask question.
 ## Translations
 Russian and English localizations are included to the package as core parts.
 
-Download: https://norrnext.com/translations/quantum-manager
-
 The component has translations into the following languages:
 - Bulgarian (Bulgaria)	
 - Czech (Czech Republic)
@@ -38,6 +36,8 @@ The component has translations into the following languages:
 - Turkish (Turkey)	
 - Indonesian (Indonesia)	
 - Polish (Poland)
+
+Download the translation packages here: https://norrnext.com/translations/quantum-manager
 
 ## License
 GPLv3
