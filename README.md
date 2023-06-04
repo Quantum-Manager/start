@@ -17,7 +17,7 @@ Report a bug, suggest your idea or ask question.
 
 ## Links
 - [Official site](https://www.norrnext.com/quantum-manager)
-- [Official site on Russian](https://hika.su/rasshireniya/quantum-manager)
+- [Official site in Russian](https://hika.su/rasshireniya/quantum-manager)
 - [Documentation](https://www.norrnext.com/docs/joomla-extensions/quantum-manager)
 
 ## Translations
