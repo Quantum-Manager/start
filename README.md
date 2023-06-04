@@ -23,9 +23,10 @@ Report a bug, suggest your idea or ask question.
 ## Translations
 Russian and English localizations are included to the package as core parts.
 
-The component has translations into the following languages:
+The component has 16+ translations into the following languages:
 - Bulgarian (Bulgaria)	
 - Czech (Czech Republic)
+- Dutch (Netherlands)
 - English (United Kingdom)	
 - French (France)
 - German (Germany)
@@ -36,6 +37,7 @@ The component has translations into the following languages:
 - Turkish (Turkey)	
 - Indonesian (Indonesia)	
 - Polish (Poland)
+- And more.
 
 Download the translation packages here: https://norrnext.com/translations/quantum-manager
 
