@@ -1,0 +1,12 @@
+pkg_quantummanager;Quantum-Manager/pkg_quantummanager;git;master
+com_quantummanager;Quantum-Manager/quantummanager;git;master
+lib_fields;Quantum-Manager/lib_fields;git;master
+lib_jpel;Quantum-Manager/jpel;git;master
+plg_quantummanagermedia;Quantum-Manager/quantummanagermedia;git;master
+plg_quantumyoothemepro;Quantum-Manager/quantumyoothemepro;git;master
+plg_quantummanagericon;Quantum-Manager/quantummanagericon;git;master
+plg_quantummenus;Quantum-Manager/quantummenus;git;master
+plg_quantumspbuilder;Quantum-Manager/quantumspbuilder;git;master
+plg_quantummanagerbutton;Quantum-Manager/quantummanagerbutton;git;master
+plg_quantummanagerconfig;Quantum-Manager/quantummanagerconfig;git;master
+plg_quantummanagercontent;Quantum-Manager/quantummanagercontent;git;master
