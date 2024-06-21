@@ -35,7 +35,7 @@ while read line;do
         BRANCH=""
       fi
 
-      git clone ${BRANCH} git@github.com:"${REPO}".git
+      git clone ${BRANCH} git@github.com:"${REPO}".git ${FOLDER}
       cd "${FOLDER}"
       rm -f README.md
       rm -f .gitignore
