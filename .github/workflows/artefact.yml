@@ -28,12 +28,12 @@ jobs:
           sudo apt-get install git zip unzip curl jq -y
 
       - name: Set run permissions
-        run: sudo chmod +x ./build.sh ${{ secrets.KEY_GITHUB }}
+        run: sudo chmod +x ./build.sh
 
       - name: Run build script
         run: |
           export TERM=xterm
-          ./build.sh
+          ./build.sh ${{ secrets.KEY_GITHUB }}
           ls -l
 
       - name: Upload artifact
