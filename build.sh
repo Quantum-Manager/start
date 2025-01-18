@@ -2,6 +2,8 @@
 
 # требования: zip, unzip, curl, jq, git, настроенный доступ ssh в гитхабе
 
+KEY_GITHUB=$1
+
 rm -rf tmpbuild
 mkdir tmpbuild
 cd tmpbuild
@@ -41,6 +43,18 @@ while read line;do
       rm -f .gitignore
       rm -rf .git
       cd ..
+  fi
+
+  if [[ "${TYPE}" == "release" ]]
+  then
+    FILE_NAME="${FOLDER}.zip"
+    API_URL="https://${KEY_GITHUB}:@api.github.com/repos/${REPO}"
+    ASSET_ID=$(curl "${API_URL}"/releases/latest | jq -r '.assets[0].id')
+    echo "Asset ID: $ASSET_ID"
+    rm -f "${FILE_NAME}"
+    curl -O -J -L -H "Accept: application/octet-stream" "$API_URL/releases/assets/$ASSET_ID"
+    unzip "${FOLDER}".zip -d "${FOLDER}"
+    rm -f "${FOLDER}".zip
   fi
 
 done < ../exts.txt

@@ -28,7 +28,7 @@ jobs:
           sudo apt-get install git zip unzip curl jq -y
 
       - name: Set run permissions
-        run: sudo chmod +x ./build.sh
+        run: sudo chmod +x ./build.sh ${{ secrets.KEY_GITHUB }}
 
       - name: Run build script
         run: |
