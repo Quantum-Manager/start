@@ -1,7 +1,7 @@
 pkg_quantummanager;Quantum-Manager/pkg_quantummanager;git;master
 com_quantummanager;Quantum-Manager/quantummanager;git;master
 lib_fields;Quantum-Manager/lib_fields;git;master
-lib_jpel;Quantum-Manager/jpel;git;master
+lib_jpel;Quantum-Manager/jpel;release
 lib_jinterventionimage;Delo-Design/jinterventionimage;release
 plg_quantummanagermedia;Quantum-Manager/quantummanagermedia;git;master
 plg_quantumyoothemepro;Quantum-Manager/quantumyoothemepro;git;master
